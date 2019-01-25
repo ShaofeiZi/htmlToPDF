@@ -1,0 +1,22 @@
+{
+  "name": "@zishaofei/htmltopdf",
+  "version": "0.0.1",
+  "description": "",
+  "main": "src/index.js",
+  "scripts": {
+    "pubnpm": "npm publish"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ShaofeiZi/htmlToPDF.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ShaofeiZi/htmlToPDF/issues"
+  },
+  "homepage": "https://github.com/ShaofeiZi/htmlToPDF#readme",
+  "dependencies": {
+    "puppeteer-cn": "^0.1.8"
+  }
+}
